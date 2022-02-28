@@ -1,4 +1,4 @@
-# Raspberry_C++_Template README.md 0.2
+# Raspberry_C++_Template README.md 0.3
 
 This is a suggestion for a simple Geany C++ template for raspberry Pi (espacially 3B+ and 4).
 
@@ -24,15 +24,14 @@ doxygen
 ### Prequels
 
 If this project is not stored under /home/pi/Desktop/Geany_WS/Raspberry_Cpp_Template, you have to do
-some changes in the geany project settings. If it's stores under mentioned path, you do not need any
-changes. But if so:
+some edits in the geany project settings. 
 
 - Project -> Preferences
 - under the tap "Project" you can change the base directory (path to this project)
 
 ### Compiling
 
-inside geany:	- At the very first, click the tab 'Make' and then click 'cmake'.
+inside geany:	- At the very first, click the tab 'Make' and then click 'cmake' in the sub menu.
 				- output should end with something like 'Build files have been written to: /home/pi/Desktop/Geany_WS/Raspberry_Cpp_Template/build'
 				  if no errors occured.
 				- Now you can build: click the tab 'Make' and the again 'Make' or press shift-F9

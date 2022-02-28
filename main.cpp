@@ -1,5 +1,5 @@
 /**	@mainpage 		Raspberry C++ Template
- *	@Board Version:	RPI 3B+,RPI4
+ *	@Board Version:	RPI 3B+
  *	@image 			html default.png*/
  
 /**		Raspberry C++ Template

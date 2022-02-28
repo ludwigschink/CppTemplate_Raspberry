@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1.0)
 
-project(Raspberry_Cpp_RPI_Template VERSION 0.2 LANGUAGES CXX)
+project(Raspberry_Cpp_RPI_Template VERSION 0.3 LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 

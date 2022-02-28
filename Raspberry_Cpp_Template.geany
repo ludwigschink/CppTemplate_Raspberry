@@ -28,9 +28,12 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=152;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2Fmain.cpp;0;4
-FILE_NAME_1=0;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2FCMakeLists.txt;0;4
+current_page=4
+FILE_NAME_0=124;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2Fmain.cpp;0;4
+FILE_NAME_1=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2Finc%2FMyTemplate_RPI_Class.h;0;4
+FILE_NAME_2=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2Fsrc%2FMyTemplate_RPI_Class.cpp;0;4
+FILE_NAME_3=0;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2FCMakeLists.txt;0;4
+FILE_NAME_4=1354;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2FREADME.md;0;4
 
 [VTE]
 last_dir=/home
