@@ -19,7 +19,7 @@ indent_mode=2
 
 [project]
 name=Raspberry_C++_RPI_Template
-base_path=/home/pi/Desktop/Geany_WS/Raspberry_Cpp_Template
+base_path=/home/pi/Desktop/Geany_WS/CppTemplate_Raspberry
 description=
 file_patterns=
 
@@ -28,11 +28,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=3
-FILE_NAME_0=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FRaspberry_Cpp_Template%2Fmain.cpp;0;4
-FILE_NAME_1=1656;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FRaspberry_Cpp_Template%2Finc%2FMyTemplate_RPI_Class.h;0;4
-FILE_NAME_2=933;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FRaspberry_Cpp_Template%2Fsrc%2FMyTemplate_RPI_Class.cpp;0;4
-FILE_NAME_3=693;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FRaspberry_Cpp_Template%2FREADME.md;0;4
+current_page=1
+FILE_NAME_0=152;C++;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2Fmain.cpp;0;4
+FILE_NAME_1=0;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FDesktop%2FGeany_WS%2FCppTemplate_Raspberry%2FCMakeLists.txt;0;4
 
 [VTE]
 last_dir=/home

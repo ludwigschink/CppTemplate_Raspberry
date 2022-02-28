@@ -4,9 +4,9 @@
  
 /**		Raspberry C++ Template
  * 	@file		main.cpp
- * 	@version	0.2
+ * 	@version	0.3
  * 	@author		Ludwig Schink
- * 	@date		10.09.2021
+ * 	@date		28.02.2021
  * 	@brief		Entry point for program.*/
 
 #include <iostream>
